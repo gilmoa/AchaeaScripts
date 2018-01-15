@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Gilmo Achaea packages
 
-You can use the [editor on GitHub](https://github.com/gilmoa/AchaeaScripts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Just a place where to store the scripts I don't feel to embarassed to share.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Mudlet
 
-### Markdown
+| Name | Description | Download |
+|---|---|---|
+| cheatab | Uses GMCP to gather informations on most skill in Achaea. <br>Simply `CAB <group>` or `CAB <group> <skill>`. |   |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Nexus
 
-```markdown
-Syntax highlighted code block
+| Name | Description | Download |
+|---|---|---|
+| inkmiller | This will let you mill for bla bla I don't remember the syntax will have to check when I upload it. | |
+| cheatab | Uses GMCP to gather informations on most skill in Achaea. <br>Simply `CAB <group>` or `CAB <group> <skill>`. |   |
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gilmoa/AchaeaScripts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
