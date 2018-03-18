@@ -1,13 +1,13 @@
 # Gilmo Achaea packages
 
-Just a place where to store the scripts I don't feel to embarassed to share.
+Just a place where to store the scripts I don't feel too embarassed to share.
 
 ## Mudlet
 
 Name | Description
 ---|---
 [cheatab](/mudlet/cheatab.mpackage?raw=true) | Uses GMCP to gather informations on most skill in Achaea. <br>Simply `CAB <group>` or `CAB <group> <skill>`.
-
+[transmutation](/mudlet/transmutation.mpackage?raw=true) | Achaea Transmutation helper. Remembers minerals from `MINERALS`. Adds simple `extract` and `extract find <mineral>` commands. Allows to `autoex[tract][on\|off]` to automaticaly extract on GMCP Room Info event.
 
 ## Nexus
 
